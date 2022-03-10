@@ -5,8 +5,8 @@
     <th>Name</th>
     <th>Authors</th>
     <th colspan=4>Links</th></tr>
-<tr align=center><td></td>
-    <td>3d Skin Layers</td>
+<tr align=center><td><img height=48 src="https://github.com/tr7zw/3d-Skin-Layers/raw/1.17/3dSkinLayers-Shared/src/main/resources/assets/3dskinlayers/icon.png" width=48></img></td>
+    <td><a href="https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d">3d Skin Layers</a></td>
     <td>tr7zw</td>
     <td><a href="https://www.curseforge.com/minecraft/mc-mods/skin-layers-3d">Curseforge</a></td>
     <td><a href="https://github.com/tr7zw/3d-skin-layers">GitHub</a></td>
