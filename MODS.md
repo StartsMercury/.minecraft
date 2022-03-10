@@ -132,13 +132,6 @@
     <td><a href="https://modrinth.com/mod/ebe">Modrinth</a></td>
     <td></td></tr>
 <tr align=center><td></td>
-    <td>Enhanced Block Entities</td>
-    <td>Foundation Games</td>
-    <td><a href="https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities">Curseforge</a></td>
-    <td><a href="https://github.com/FoundationGames/EnhancedBlockEntities">GitHub</a></td>
-    <td><a href="https://modrinth.com/mod/ebe">Modrinth</a></td>
-    <td></td></tr>
-<tr align=center><td></td>
     <td>Entity Culling</td>
     <td>tr7zw</td>
     <td><a href="https://www.curseforge.com/minecraft/mc-mods/entityculling">Curseforge</a></td>
@@ -265,13 +258,6 @@
     <td>LudoCrpyt</td>
     <td><a href="https://www.curseforge.com/minecraft/mc-mods/music-duration-reducer">Curseforge</a></td>
     <td><a href="https://github.com/LudoCrypt/Music-Duration-Reducer">GitHub</a></td>
-    <td></td>
-    <td></td></tr>
-<tr align=center><td></td>
-    <td>NotEnoughAnimations</td>
-    <td>tr7zw</td>
-    <td><a href="https://www.curseforge.com/minecraft/mc-mods/not-enough-animations">Curseforge</a></td>
-    <td><a href="https://github.com/tr7zw/NotEnoughAnimations">GitHub</a></td>
     <td></td>
     <td></td></tr>
 <tr align=center><td></td>
